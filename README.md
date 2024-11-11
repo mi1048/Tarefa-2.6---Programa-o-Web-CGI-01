@@ -118,7 +118,7 @@ sudo tail -f /var/log/apache2/error.log
 
 ## Após configurar o apache
 
-E necessario executar o scriptcgi.sh.
+É necessário executar o script scriptcgi.sh.
 
 ```bash
 sudo bash scriptcgi.sh
@@ -127,5 +127,7 @@ sudo bash scriptcgi.sh
 Além disso
 Ele precisa estar no diretório correto para execução (como /usr/lib/cgi-bin no Apache), e ter permissão de execução.
 
-## Após executar o scriptcgi.sh
-E necessario enviar o nome do usuário para o script CGI como um formulario html simples como o formulario.html
+## Após executar o script scriptcgi.sh caso queira testar
+É necessário enviar o nome do usuário para o script CGI através de um formulário HTML simples, como no arquivo formulario.html.
+
+
