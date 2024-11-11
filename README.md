@@ -118,7 +118,13 @@ sudo tail -f /var/log/apache2/error.log
 
 ## Após configurar o apache
 
-E necessario executar o scrpitcgi.sh.Além disso
+E necessario executar o scriptcgi.sh.
+
+```bash
+sudo bash scriptcgi.sh
+```
+
+Além disso
 Ele precisa estar no diretório correto para execução (como /usr/lib/cgi-bin no Apache), e ter permissão de execução.
 
 ## Após executar o scriptcgi.sh
