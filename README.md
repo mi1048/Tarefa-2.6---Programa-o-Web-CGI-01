@@ -116,6 +116,4 @@ Se o script não funcionar como esperado, consulte o log de erros do Apache para
 sudo tail -f /var/log/apache2/error.log
 ```
 
-## Conclusão
-
-Com estas etapas, você configurou o ambiente CGI no Ubuntu com Apache. Agora é possível executar scripts no servidor e gerar conteúdo dinâmico em resposta a interações do cliente. Para adicionar mais funcionalidades, crie scripts em linguagens como Shell, Perl ou Python e armazene-os no diretório CGI configurado.
+## Apos configurar o apache
