@@ -128,4 +128,4 @@ Além disso
 Ele precisa estar no diretório correto para execução (como /usr/lib/cgi-bin no Apache), e ter permissão de execução.
 
 ## Após executar o scriptcgi.sh
-E necessario enviar o nome do usuário para o script CGI como um formulario html simples:
+E necessario enviar o nome do usuário para o script CGI como um formulario html simples como o formulario.html
