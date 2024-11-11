@@ -116,7 +116,10 @@ Se o script não funcionar como esperado, consulte o log de erros do Apache para
 sudo tail -f /var/log/apache2/error.log
 ```
 
-## Apos configurar o apache
+## Após configurar o apache
 
-#E necessario executar o scrpitcgi.sh
+E necessario executar o scrpitcgi.sh.Além disso
 Ele precisa estar no diretório correto para execução (como /usr/lib/cgi-bin no Apache), e ter permissão de execução.
+
+## Após executar o scriptcgi.sh
+E necessario enviar o nome do usuário para o script CGI como um formulario html simples:
